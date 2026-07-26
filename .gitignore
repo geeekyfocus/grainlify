@@ -28,3 +28,4 @@ soroban/.soroban/network/
 
 # Test snapshots (auto-generated, environment-dependent)
 **/test_snapshots/
+config.bat
